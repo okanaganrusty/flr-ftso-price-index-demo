@@ -1,4 +1,6 @@
-# Flare FTSO Price Index
+# Flare Networks
+
+## Flare Time Series Oracle: Price Index
 
 Start at
 [https://docs.flare.network/dev/getting-started/contract-addresses/](https://docs.flare.network/dev/getting-started/contract-addresses/)
@@ -8,6 +10,8 @@ I have also provided the `contracts/` directory containing the current contracts
 
 To run this program run `go build` and then execute the `flr-ftso-price-index` executable. This'll report the current prices of the
 registered FTSO assets known by the Flare network.
+
+### Testing
 
 Example output:
 
